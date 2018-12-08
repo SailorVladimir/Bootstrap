@@ -1,6 +1,45 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {}
+
 .logo {
     width: 90px;
     height: 40px;
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+.jumbotron .container {
+    max-width: 40rem;
+}
+
+.jumbotron-heading {
+    font-weight: 300;
+}
+
+.btn {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+@media (min-width: 768px) {
+    .jumbotron {
+        padding-top: 96px;
+        padding-bottom: 96px;
+    }
+}
+
+@media (min-width: 576px) {
+    .jumbotron {
+        padding: 48px 32px;
+    }
+}
+
+@media (max-width: 576px) {
+    .jumbotron {
+        padding: 48px 16px;
+    }
 }
