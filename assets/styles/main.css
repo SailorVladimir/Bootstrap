@@ -30,6 +30,20 @@
     height: 225px;
 }
 
+.pricing-header {
+    max-width: 700px;
+    padding: 48px 16px 24px;
+}
+
+.font-weight-norma{
+    font-weight: 400;
+}
+
+.card-deck .card {
+    min-width: 220px;
+    margin: 0px 15px 21px;
+}
+
 @media (min-width: 768px) {
     .jumbotron {
         padding-top: 96px;
