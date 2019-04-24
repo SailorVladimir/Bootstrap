@@ -1,10 +1,4 @@
-# [Моя первая вёрстка по PSD макету.](https://sailorvladimir.github.io/Markup-1/ "Landing") #
+# Практика вёрстки на Bootstrap 4  #
 
-----------
 
-## HTML, CSS ##
- 
-- Git
-- Flexbox
-- Методология наименования классов БЭМ
-- Адаптивная вёрстка (медиа-запросы)
+[посмотреть по ссылке](https://sailorvladimir.github.io/Bootstrap-4 "Bootstrap 4")
